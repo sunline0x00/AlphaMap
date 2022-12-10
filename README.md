@@ -2,6 +2,7 @@
 - 🧱致力于使用 fuzzing Bypass 任何 waf
 - 💻开发ing，目前打算做sql的fuzz和xss的fuzz还有一些命令执行的fuzz
 - 🕹️欢迎各位催进度
+- 👻开源是不可能开源的这辈子都不可能开源的
 
 ## How to use it?
 - 目前计划docker一把梭，只需要把你想要绕的waf在此项目的docker内装一下然后直接使用此项目梭哈就可以
