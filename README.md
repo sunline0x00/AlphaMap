@@ -1,5 +1,5 @@
 # InjectHOIC
-- 🧱致力于使用 fuzzingTest Bypass 任何（开源） waf
+- 🧱致力于使用 FuzzingTest Bypass 任何（开源） waf
 - 💻开发ing，目前打算做sql的fuzz和xss的fuzz还有一些命令执行的fuzz
 - 🕹️欢迎各位催进度
 - 👻开源是不可能开源的这辈子都不可能开源的
