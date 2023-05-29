@@ -1,7 +1,7 @@
 # AlphaMap
-- 🧱AlphaMap-AI红队杀伤性渗透测试平台
-- 🕹️欢迎各位催进度
-- 👻开源是不可能开源的这辈子都不可能开源的
+- AI coordinated Red Team converged combat platform
 
-## How to use it?
-- 如同AWVS一样一键梭哈即可
+## demo 
+
+
+<img width="3354" alt="alphamap" src="https://github.com/ChattrRabbit/AlphaMap/assets/119579059/ba421642-1006-48d0-8a9b-ee124a98a478">
